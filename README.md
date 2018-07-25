@@ -70,7 +70,7 @@ Provider
 * Use Cypress to test your app with the following scenario:
   * User creates a new category item
   * User creates a new expense related to that category item
-  * User deletes the entire category
+  * User deletes the entire category, which should also delete any related cards
   * Use any combination of assertions methods. You will get full points for testing if a TA can run your test suite in Cypress and see the full scenario occur. 
 
 ####  Documentation  
