@@ -1,4 +1,5 @@
-401 JS --  Lab 32 Budget Tracker Con't - Middleware and Combining Reducers
+![cf](https://i.imgur.com/7v5ASc8.png)  
+Lab 32 Budget Tracker Con't - Middleware and Combining Reducers
 ===
 
 ## Submission Instructions
