@@ -33,7 +33,7 @@ Lab 32 Budget Tracker Con't - Middleware and Combining Reducers
 
 ###### middleware
 * Add a redux-reported middleware to your store
-  * it should log acctions and the state updates
+  * it should log actions and the state updates
   * it should wrap the updating of the store in a `try/catch` and gracefully log errors
 
 ##### Components
