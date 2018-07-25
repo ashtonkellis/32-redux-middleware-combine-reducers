@@ -3,7 +3,8 @@ Lab 32 Budget Tracker Con't - Middleware and Combining Reducers
 ===
 
 ## Submission Instructions
-  * continue working from lab 31, **NO NEED TO FORK THIS LAB**
+  * Continue working from lab 31, **NO NEED TO FORK THIS LAB**
+  * **Automatic 0's will be given if you did not significantly change the SCSS styles from lecture code**
 
 ## Requirements  
 #### Feature Tasks 
